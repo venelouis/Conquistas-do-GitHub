@@ -1,6 +1,6 @@
 <!-- <div align="center"> -->
 
-# 🏆 GitHub Achievements 🏆
+# 🏆 Conquistas do GitHub 🏆
 
 <br>
 
@@ -18,20 +18,20 @@
 
 <br>
 
-# 🏅 Displaying Achievements 🏅
+# 🏅 Exibindo Coquistas 🏅
 
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
+#### Exibir conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
 
-#### You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
+#### Você pode cancelar a exibição das conquistas em seu perfil acessando suas [configurações de perfil](https://github.com/settings).
 
 <br>
 
-# 📃 Achievement List 📃
+# 📃 Lista de Conquistas 📃
 <br>
 
-| Badge | Name | How to get | Needed amount | 
+| Badge | Nome | Como Conseguir | Quantidade Necessária | 
 | :-: | :-: | :-: | :-: |
-| ![Heart On Your Sleeve](/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png) | Heart On Your Sleeve | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" width="60px"></td>   <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
+| ![Heart On Your Sleeve](/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png) | Heart On Your Sleeve | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>PRATA</th>  <th>OURO</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" width="60px"></td>   <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
 | ![Open Sourcerer](/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png) | Open Sourcerer | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" width="60px"></td>   <td><img src="/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
 | ![Starstruck](/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png)                 | Starstruck         | Created a repository that has many stars | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" width="60px"></td>   <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Star-Struck/PNG/StarStruck_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">512</td>  <td align="center">4096</td>  </tr>   </tbody>  </table>      |
 | ![Quickdraw](/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png)                 | Quickdraw        | Gitty up!<br>(closed an issue / pull request within 5 minutes of opening) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
