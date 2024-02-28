@@ -16,11 +16,11 @@
   </picture>
 </div>
 
+<br>
 <p align="center">
   <b> Como obter todas as conquistas do GitHub de forma simples e clara.</b>
     </br>
 </p>
-
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
@@ -28,11 +28,21 @@
   <a href="#Conq"> 🚀 Direto ao ponto ✨ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Referência"> 🌍 Referências e inspirações 👀</a>&nbsp;&nbsp;&nbsp;
 </p>
+<br>
+<div align="center">
+  <p>
+      <img src="https://img.shields.io/github/languages/count/venelouis/Conquistas-do-GitHub"/>
+      <img src="https://img.shields.io/github/repo-size/venelouis/Conquistas-do-GitHub"/>
+      <img src="https://img.shields.io/github/last-commit/venelouis/Conquistas-do-GitHub"/>
+      <img src="https://img.shields.io/github/issues/venelouis/Conquistas-do-GitHub"/>
+  </p> 
+</div>
+
 
 <br>
-  
-## 🚀 Badges (distintivos, emblemas) de Destaque ✨
-
+<p a id="Conq">
+<h2> 🚀 Badges (distintivos, emblemas) de Destaque ✨ </h2>
+</a></p>
 <br>
 
 <!-- Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
@@ -107,12 +117,14 @@
 <img align="right" width="15%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
 <br>
 <br>
+<br>
 
 <a id="Referência"></a>
 # 🌍 Veja também 👀 
 
 - <a href="Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
 - <a href="github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
+- <a href="https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas"> MayconCoutinho/GitHub-Trofeu-de-Conquistas</a> uma versão br interessante <br>
 *este repositório foi criado inspirado e melhorado a partir de: <a href="github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
