@@ -1,7 +1,5 @@
-<!-- <div align="center"> -->
-
-# 🏆 Conquistas do GitHub 🏆
-
+<h1 align="center"> 🏆 Conquistas do GitHub 🏆 </h1>
+<br>
 <br>
 
 <div align="center">
