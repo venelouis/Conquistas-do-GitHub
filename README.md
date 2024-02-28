@@ -122,7 +122,7 @@
 
 - <a href="Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
 - <a href="github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
-- <a href="https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas"> MayconCoutinho/GitHub-Trofeu-de-Conquistas</a> uma versão br interessante <br>
-*este repositório foi criado inspirado e melhorado a partir de: <a href="github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
+- <a href="https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas"> MayconCoutinho/GitHub-Trofeu-de-Conquistas</a> uma versão brasileira <br>
+- *este repositório foi criado, inspirado e melhorado a partir dos repositórios acima e principalmente deste outro: <a href="github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
