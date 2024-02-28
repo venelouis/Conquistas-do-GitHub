@@ -16,25 +16,30 @@
   </picture>
 </div>
 
+<p align="center">
+  <b> Como obter todas as conquistas do GitHub de forma simples e clara.</b>
+    </br>
+</p>
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+<p align="center">
+  <a href="#conq"> 🚀 Direto ao ponto ✨ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Referência"> 🌍 Referências e inspirações 👀</a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <br>
 
-# 🏅 Exibição de Conquistas 🏅
-
-#### Exibir conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
-
-#### Você pode cancelar a exibição das conquistas em seu perfil acessando suas [configurações de perfil](https://github.com/settings).
-
-<br>
-
-
-# ✨ Badges (distintivos, emblemas) de Destaque  ✨
+<a href="#conq"> 
+# 🚀 Badges (distintivos, emblemas) de Destaque ✨
 <br>
 
 <!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
 
 | Badge | Nome | Como conseguir |
 | :-: | :-: | :-: |
-| ![pro-black](/Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_DarkMode.svg#gh-light-mode-only) ![pro-white](Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only) | Pro | Use [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
+| ![pro-black](/Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_DarkMode.svg#gh-light-mode-only) ![pro-white](Media/Highlights/GitHub-Pro/SVG/GitHub-Pro_LightMode.svg#gh-dark-mode-only) | Pro | Use o [GitHub Pro](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-pro) |
 | ![developer-program-member-dark](/Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_LightMode.svg#gh-dark-mode-only)![developer-program-member-light](/Media/Highlights/Developer-Program-Member/SVG/DeveloperProgramMember_DarkMode.svg#gh-light-mode-only) | Developer Program Member | Seja um membro registrado do [GitHub Developer Program](https://docs.github.com/en/developers/overview/github-developer-program) |
 | ![security-bug-bounty-hunter-dark](/Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_LightMode.svg#gh-dark-mode-only)![security-bug-bounty-hunter-light](Media/Highlights/Security-Bug-Bounty-Hunter/SVG/Security-Bug-Bounty-Hunter_DarkMode.svg#gh-light-mode-only) | Security Bug Bounty Hunter | Ajude a caçar vulnerabilidades de segurança em: [GitHub Security](https://bounty.github.com/) |
 | ![github-campus-expert-dark](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_LightMode.svg#gh-dark-mode-only)![github-campus-expert-light](/Media/Highlights/GitHub-Campus-Expert/SVG/GitHub-Campus-Expert_DarkMode.svg#gh-light-mode-only) | GitHub Campus Expert | Participe do [GitHub Campus Program](https://education.github.com/experts) |
@@ -87,18 +92,24 @@
 
 <br>
 
+# 🏅 Exibição de Conquistas 🏅
+
+#### Exibir conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
+
+#### Você pode cancelar a exibição das conquistas em seu perfil acessando suas [configurações de perfil](https://github.com/settings).
+
+<br>
+
 # ℹ️ Mais informações ℹ️
 
-#### Você pode achar mais informações sobre as Badges do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile). 
+#### Você pode achar mais informações sobre as Badges do GitHub neste [link](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile) e neste outro [link](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey) também!
 
+<img align="right" width="15%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
+<br>
 <br>
 
-<div align="center">
-  <img align="center" width="20%" src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif">
-</div>
-<br>
-
-# 👁️‍🗨️ Veja também 👀
+<a id="Referência"></a>
+# 🌍 Veja também 👀 
 
 - <a href="Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
 - <a href="github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
