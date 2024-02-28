@@ -103,3 +103,5 @@
 - <a href="Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
 - <a href="github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
 *este repositório foi criado inspirado e melhorado a partir de: <a href="github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
