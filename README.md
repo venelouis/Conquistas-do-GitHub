@@ -25,17 +25,17 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="#conq"> 🚀 Direto ao ponto ✨ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Conq"> 🚀 Direto ao ponto ✨ </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Referência"> 🌍 Referências e inspirações 👀</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
+  
+## 🚀 Badges (distintivos, emblemas) de Destaque ✨
 
-<a href="#conq"> 
-# 🚀 Badges (distintivos, emblemas) de Destaque ✨
 <br>
 
-<!-- TODO Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
+<!-- Some of these should have light mode first, and dark mode second. For consistency. - @seanpm2001 !-->
 
 | Badge | Nome | Como conseguir |
 | :-: | :-: | :-: |
