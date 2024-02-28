@@ -18,7 +18,7 @@
 
 <br>
 
-# 🏅 Exibição de Coquistas 🏅
+# 🏅 Exibição de Conquistas 🏅
 
 #### Exibir conquistas em seu perfil é totalmente opcional; por padrão, elas podem ser vistas por qualquer pessoa que visualize seu perfil público.
 
