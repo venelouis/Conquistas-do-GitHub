@@ -120,9 +120,9 @@
 <a id="Referência"></a>
 # 🌍 Veja também 👀 
 
-- <a href="Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
-- <a href="github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
+- <a href="https://Flet/rejected-github-profile-achievements">Flet/rejected-github-profile-achievements</a> para rir sobre as Conquistas ("the Achievements")
+- <a href="https://github.com/Schweinepriester/github-profile-achievements"> Schweinepriester/github-profile-achievements</a> igual, só que diferente ;) <br>
 - <a href="https://github.com/MayconCoutinho/GitHub-Trofeu-de-Conquistas"> MayconCoutinho/GitHub-Trofeu-de-Conquistas</a> uma versão brasileira <br>
-- *Este repositório foi criado, inspirado e melhorado a partir dos repositórios acima e principalmente deste outro: <a href="github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
+- *Este repositório foi criado, inspirado e melhorado a partir dos repositórios acima e principalmente deste outro: <a href="https://github.com/drknzz/GitHub-Achievements"> drknzz/GitHub-Achievements</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
